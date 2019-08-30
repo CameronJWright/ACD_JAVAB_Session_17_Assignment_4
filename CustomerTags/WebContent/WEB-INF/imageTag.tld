@@ -1,0 +1,9 @@
+<taglib>
+ <tlib-version>1.0</tlib-version>
+ <jsp-version>2.0</jsp-version>
+ <tag>
+ <name>images</name>
+ <tag-class>tags.ImageTag</tag-class>
+ <body-content>empty</body-content>
+ </tag>
+</taglib>
